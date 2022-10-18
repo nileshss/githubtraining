@@ -7,3 +7,6 @@ this is requirement for employee payroll system
 6.add salary
 7.get salary by month & year
 8.print salary slip
+9.employee update his some details
+10.employee update pasword
+11.admin update employee basic salary
