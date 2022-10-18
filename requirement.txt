@@ -1,0 +1,6 @@
+this is requirement for employee payroll system
+1.add employee
+2.delete employee
+3.update employee
+4.get all employee
+5.get employee by id
