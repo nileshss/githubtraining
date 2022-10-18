@@ -4,3 +4,6 @@ this is requirement for employee payroll system
 3.update employee
 4.get all employee
 5.get employee by id
+6.add salary
+7.get salary by month & year
+8.print salary slip
